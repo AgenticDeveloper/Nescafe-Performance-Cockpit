@@ -1,0 +1,4 @@
+model,capacity_cpd,capex,opex_month,service_freq_days,margin_per_cup
+Model A,60,2500,60,30,0.45
+Model B,120,4100,90,21,0.40
+Model C,200,7000,110,14,0.35
