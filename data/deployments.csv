@@ -1,0 +1,4 @@
+site_id,model,cpd_expected,cpd_actual_last7,uptime_pct,status,months_live,contract
+1231,Model A,48,45,0.96,Deployed,2,FreeOnLoan
+1232,Model B,90,62,0.92,PerformanceIssue,1,Rental
+1233,Model A,35,32,0.98,Stable,4,PayPerCup
